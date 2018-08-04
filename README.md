@@ -1,5 +1,7 @@
 # AngularTravisciFirebase
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xuanhungsecure/angular-travisci-firebase.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10.
 
 ## Development server
